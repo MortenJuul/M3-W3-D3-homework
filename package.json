@@ -18,5 +18,8 @@
   "homepage": "https://github.com/MortenJuul/M3-W3-D3-homework#readme",
   "devDependencies": {
     "sass": "^1.42.0"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.13"
   }
 }

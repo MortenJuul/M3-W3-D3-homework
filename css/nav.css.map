@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAAA,cAAc;AAGd,AACI,GADD,CACC,EAAE,CAAC;EACC,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,IAAI;CASxB;;AAZL,AAIQ,GAJL,CACC,EAAE,CAGE,EAAE,CAAC;EACC,KAAK,ECFT,KAAkB;EDGd,aAAa,EAAE,GAAG;CAKrB;;AAXT,AAOY,GAPT,CACC,EAAE,CAGE,EAAE,CAGE,CAAC,CAAC;EACE,KAAK,ECLb,KAAkB;EDMV,eAAe,EAAE,IAAI;CACxB",
+    "sources": [
+        "../scss/nav.scss",
+        "../scss/colors.scss"
+    ],
+    "names": [],
+    "file": "nav.css"
+}
